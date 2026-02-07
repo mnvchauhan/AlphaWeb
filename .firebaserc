@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "alpha-test-f749f",
+    "production": "alpha-test-f749f"
+  },
+  "targets": {},
+  "etags": {}
+}

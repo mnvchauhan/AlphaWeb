@@ -29,7 +29,7 @@ const HomePage = () => {
       {/* <Pricing /> */}
       <FAQ />
       <C2a />
-      <Footer />
+      {/* <Footer /> */}
       <ScrollToTop />
     </PageContainer>
   );
